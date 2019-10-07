@@ -1,0 +1,10 @@
+@import './variables';
+
+.navbar {
+  height: $nav-height;
+}
+
+.logo {
+  color: $success-color !important;
+}
+
